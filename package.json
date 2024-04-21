@@ -1,0 +1,15 @@
+{
+	"name": "p2p_rate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "npx playwright test"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@playwright/test": "^1.43.1"
+	}
+}
